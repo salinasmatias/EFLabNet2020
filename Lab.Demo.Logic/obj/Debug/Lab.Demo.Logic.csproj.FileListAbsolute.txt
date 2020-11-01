@@ -10,3 +10,9 @@ C:\Users\kerne\source\repos\Lab.Layers\Lab.Demo.Logic\obj\Debug\Lab.Demo.Logic.c
 C:\Users\kerne\source\repos\Lab.Layers\Lab.Demo.Logic\obj\Debug\Lab.Demo.Logic.csproj.CopyComplete
 C:\Users\kerne\source\repos\Lab.Layers\Lab.Demo.Logic\obj\Debug\Lab.Demo.Logic.dll
 C:\Users\kerne\source\repos\Lab.Layers\Lab.Demo.Logic\obj\Debug\Lab.Demo.Logic.pdb
+C:\Users\kerne\source\repos\Lab.Layers\Lab.Demo.Logic\bin\Debug\Lab.Demo.Data.dll
+C:\Users\kerne\source\repos\Lab.Layers\Lab.Demo.Logic\bin\Debug\Lab.Demo.Entities.dll
+C:\Users\kerne\source\repos\Lab.Layers\Lab.Demo.Logic\bin\Debug\Lab.Demo.Data.pdb
+C:\Users\kerne\source\repos\Lab.Layers\Lab.Demo.Logic\bin\Debug\Lab.Demo.Data.dll.config
+C:\Users\kerne\source\repos\Lab.Layers\Lab.Demo.Logic\bin\Debug\Lab.Demo.Entities.pdb
+C:\Users\kerne\source\repos\Lab.Layers\Lab.Demo.Logic\bin\Debug\Lab.Demo.Entities.dll.config

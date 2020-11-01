@@ -57,5 +57,15 @@
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Lab.Demo.Entities\Lab.Demo.Entities.csproj">
+      <Project>{82A94B83-5FD4-48E7-BB1D-A33C8C61F4FA}</Project>
+      <Name>Lab.Demo.Entities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Lab.Demo.Logic\Lab.Demo.Logic.csproj">
+      <Project>{DAD7AC19-9192-4B33-8743-1672E5CA8A39}</Project>
+      <Name>Lab.Demo.Logic</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
